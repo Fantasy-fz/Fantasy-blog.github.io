@@ -33,3 +33,9 @@
   background: #3ecdf1;
   color: #f2f2f2;
 }
+
+/* 翻页按钮居中 */
+#pagination {
+  width: 100%;
+  margin: auto;
+}
