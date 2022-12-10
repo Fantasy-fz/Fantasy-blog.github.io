@@ -109,6 +109,12 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -127,6 +133,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+        </tags>
       
     </entry>
     
