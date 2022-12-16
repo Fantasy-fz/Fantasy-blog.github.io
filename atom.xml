@@ -6,7 +6,7 @@
   <link href="https://www.777nx.cn/atom.xml" rel="self"/>
   
   <link href="https://www.777nx.cn/"/>
-  <updated>2022-12-15T11:51:37.000Z</updated>
+  <updated>2022-12-16T05:00:35.000Z</updated>
   <id>https://www.777nx.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记录一次实训</title>
+    <link href="https://www.777nx.cn/posts/1ef88850.html"/>
+    <id>https://www.777nx.cn/posts/1ef88850.html</id>
+    <published>2022-12-16T05:00:35.000Z</published>
+    <updated>2022-12-16T05:00:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>新闻系统开发</p><blockquote><p>开发环境：Windows11 64位<br>软件版本：JDK1.8 + mysql5.7.24 + jetbrains idea2022.3</p></blockquote><div class="btns rounded grid5">            <a class="button" href='https://777nx.lanzoue.com/iQuMH0isu6tc' title='下载源码'><i class='fas fa-download'></i>下载源码</a>          </div>]]></content>
+    
+    
+    <summary type="html">记录一次实训</summary>
+    
+    
+    
+    <category term="Java" scheme="https://www.777nx.cn/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.777nx.cn/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>基于Butterfly的外挂标签引入</title>
