@@ -265,7 +265,7 @@
 
   <url>
     <loc>https://www.777nx.cn/</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2022-12-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -273,28 +273,28 @@
   
   <url>
     <loc>https://www.777nx.cn/tags/HTML/</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.777nx.cn/tags/Java/</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.777nx.cn/tags/Python/</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.777nx.cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2022-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.777nx.cn/tags/Java/</loc>
+    <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -303,28 +303,28 @@
   
   <url>
     <loc>https://www.777nx.cn/categories/HTML/</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.777nx.cn/categories/Java/</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.777nx.cn/categories/Python/</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.777nx.cn/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2022-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.777nx.cn/categories/Java/</loc>
+    <lastmod>2022-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
