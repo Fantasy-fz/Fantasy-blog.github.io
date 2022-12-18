@@ -320,6 +320,7 @@ div#archive {
     top: -8px
 }
 
+
 /* Twikoo 评论样式 */
 
 .tk-input .el-textarea__inner {
@@ -363,3 +364,7 @@ div#archive {
     }
 }
 
+.loading-img {
+  background: url(https://img.777nx.cn/hexo/images/avatar.png) no-repeat center center;
+  background-size: cover;
+}
