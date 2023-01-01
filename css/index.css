@@ -211,12 +211,12 @@ template {
 .fontawesomeIcon,
 hr:before,
 #article-container a.headerlink:after,
-#article-container h1:before,
-#article-container h2:before,
-#article-container h3:before,
-#article-container h4:before,
-#article-container h5:before,
-#article-container h6:before,
+#article-container.post-content h1:before,
+#article-container.post-content h2:before,
+#article-container.post-content h3:before,
+#article-container.post-content h4:before,
+#article-container.post-content h5:before,
+#article-container.post-content h6:before,
 #post .post-outdate-notice:before,
 .note:not(.no-icon)::before {
   display: inline-block;
@@ -1403,7 +1403,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://img.777nx.cn/hexo/images/wallpaper/dm1.webp);
+  background: url(https://img.777nx.cn/hexo/images/background/dm14.webp);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4084,24 +4084,24 @@ h1.page-title + .tag-cloud-list {
 #article-container ul p {
   margin: 0 0 8px;
 }
-#article-container h1,
-#article-container h2,
-#article-container h3,
-#article-container h4,
-#article-container h5,
-#article-container h6 {
+#article-container.post-content h1,
+#article-container.post-content h2,
+#article-container.post-content h3,
+#article-container.post-content h4,
+#article-container.post-content h5,
+#article-container.post-content h6 {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -ms-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-#article-container h1:before,
-#article-container h2:before,
-#article-container h3:before,
-#article-container h4:before,
-#article-container h5:before,
-#article-container h6:before {
+#article-container.post-content h1:before,
+#article-container.post-content h2:before,
+#article-container.post-content h3:before,
+#article-container.post-content h4:before,
+#article-container.post-content h5:before,
+#article-container.post-content h6:before {
   position: absolute;
   top: calc(50% - 7px);
   color: #f47466;
@@ -4113,87 +4113,87 @@ h1.page-title + .tag-cloud-list {
   -ms-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-#article-container h1:hover:before,
-#article-container h2:hover:before,
-#article-container h3:hover:before,
-#article-container h4:hover:before,
-#article-container h5:hover:before,
-#article-container h6:hover:before {
+#article-container.post-content h1:hover:before,
+#article-container.post-content h2:hover:before,
+#article-container.post-content h3:hover:before,
+#article-container.post-content h4:hover:before,
+#article-container.post-content h5:hover:before,
+#article-container.post-content h6:hover:before {
   color: #49b1f5;
 }
-#article-container h1 {
+#article-container.post-content h1 {
   padding-left: 32px;
 }
-#article-container h1:before {
+#article-container.post-content h1:before {
   margin-left: -26px;
   font-size: 20px;
 }
-#article-container h1:hover {
+#article-container.post-content h1:hover {
   padding-left: 38px;
 }
-#article-container h2 {
+#article-container.post-content h2 {
   padding-left: 30px;
 }
-#article-container h2:before {
+#article-container.post-content h2:before {
   margin-left: -24px;
   font-size: 18px;
 }
-#article-container h2:hover {
+#article-container.post-content h2:hover {
   padding-left: 36px;
 }
-#article-container h3 {
+#article-container.post-content h3 {
   padding-left: 28px;
 }
-#article-container h3:before {
+#article-container.post-content h3:before {
   margin-left: -22px;
   font-size: 16px;
 }
-#article-container h3:hover {
+#article-container.post-content h3:hover {
   padding-left: 34px;
 }
-#article-container h4 {
+#article-container.post-content h4 {
   padding-left: 26px;
 }
-#article-container h4:before {
+#article-container.post-content h4:before {
   margin-left: -20px;
   font-size: 14px;
 }
-#article-container h4:hover {
+#article-container.post-content h4:hover {
   padding-left: 32px;
 }
-#article-container h5 {
+#article-container.post-content h5 {
   padding-left: 24px;
 }
-#article-container h5:before {
+#article-container.post-content h5:before {
   margin-left: -18px;
   font-size: 12px;
 }
-#article-container h5:hover {
+#article-container.post-content h5:hover {
   padding-left: 30px;
 }
-#article-container h6 {
+#article-container.post-content h6 {
   padding-left: 24px;
 }
-#article-container h6:before {
+#article-container.post-content h6:before {
   margin-left: -18px;
   font-size: 12px;
 }
-#article-container h6:hover {
+#article-container.post-content h6:hover {
   padding-left: 30px;
 }
-#article-container ol p,
-#article-container ul p {
+#article-container.post-content ol p,
+#article-container.post-content ul p {
   margin: 0 0 8px;
 }
-#article-container li::marker {
+#article-container.post-content li::marker {
   color: #49b1f5;
   font-weight: 600;
   font-size: 1.05em;
 }
-#article-container li:hover::marker {
+#article-container.post-content li:hover::marker {
   color: var(--pseudo-hover);
 }
-#article-container ul > li {
+#article-container.post-content ul > li {
   list-style-type: circle;
 }
 #article-container > :last-child {
@@ -4726,6 +4726,29 @@ span.mathjax-overflow {
 }
 .snackbar-css {
   border-radius: 5px !important;
+}
+[data-theme="dark"] #web_bg {
+  background: url(https://img.777nx.cn/hexo/images/background/yuanshen1.webp);
+  background-attachment: local;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (max-width: 800px) {
+  #web_bg {
+    background: url(https://img.777nx.cn/hexo/images/background/snow.webp) !important;
+    background-attachment: local !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+  }
+  [data-theme="dark"] #web_bg {
+    background: url(https://img.777nx.cn/hexo/images/background/mb8.webp) !important;
+    background-attachment: local !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+  }
 }
 #article-container .btn-center {
   margin: 0 0 20px;
