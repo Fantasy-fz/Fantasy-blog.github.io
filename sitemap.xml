@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.777nx.cn/movies/index.html</loc>
-    
-    <lastmod>2023-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.777nx.cn/music/index.html</loc>
-    
-    <lastmod>2023-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.777nx.cn/tags/index.html</loc>
-    
-    <lastmod>2023-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.777nx.cn/posts/b4199951.html</loc>
     
     <lastmod>2023-01-03</lastmod>
@@ -191,15 +164,6 @@
   </url>
   
   <url>
-    <loc>https://www.777nx.cn/Gallery/index.html</loc>
-    
-    <lastmod>2023-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.777nx.cn/about/index.html</loc>
     
     <lastmod>2023-01-03</lastmod>
@@ -254,6 +218,33 @@
   </url>
   
   <url>
+    <loc>https://www.777nx.cn/movies/index.html</loc>
+    
+    <lastmod>2023-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.777nx.cn/music/index.html</loc>
+    
+    <lastmod>2023-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.777nx.cn/tags/index.html</loc>
+    
+    <lastmod>2023-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.777nx.cn/Gallery/photo/index.html</loc>
     
     <lastmod>2023-01-03</lastmod>
@@ -264,6 +255,15 @@
   
   <url>
     <loc>https://www.777nx.cn/Gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2023-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.777nx.cn/Gallery/index.html</loc>
     
     <lastmod>2023-01-03</lastmod>
     
