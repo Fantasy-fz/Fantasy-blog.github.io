@@ -594,22 +594,22 @@
     
     
     <entry>
-      <title>照片</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/random/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/wallpaper/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<!-- GitCalendar容器 --><!-- <div id="gitZone"></div> --><!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div><h2 id="个人碎碎念🤗"><a href="#个人碎碎念🤗" class="headerlink" title="个人碎碎念🤗"></a>个人碎碎念🤗</h2><p><img src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" alt=""></p><ul><li><strong>搭建博客初衷：</strong>作为一个科班的学生，一直觉得拥有自己的独立网站是一件十分酷的事情！这样就相当于拥有自己独立的空间，不用去CSDN这些网站上写博客或者用有道云笔记去记笔记。网站成为了自己的一个名片，在上面写写东西，记录生活，分享知识，把自己想与他人展现的技能放在博客上，何尝不是一件有趣的事情！😆😆😆</li><li><strong>博客内容：</strong>本人做的笔记与总结，主要是关于Hexo博客搭建和魔改、 Java 后端、 Python，当然也有部分东西是搬过来的，后期可能会有一些Linux的知识👏👏👏</li><li><strong>想法：</strong>为什么当初会阴差阳错地选择了Hexo这样的静态博客作为自己的网站框架呢？因为相比于Wordpress这些动态博客，Hexo可以不用购买服务器，网站的运营费用主要是域名费用(白嫖😜)。而采用动态博客就必须自己租云服务器，虽然Wordpress部署起来更加简单，不用折腾那么多(但是我是一个比较喜欢折腾的人🤣)。还有一个就是Hexo这个框架非常轻量化，启动速度很快🚀，且可拓展性十分强大，可以自己定义任何东西，非常考验自己的动手能力(虽然很多是CV的😐)。平时在电脑上装好对应的NodeJs环境和依赖，写一写Markdown文件然后直接推送到github仓库就会全自动部署，网站就可以将笔记渲染成十分好看的网页和布局，这种自动化部署和精美的页面是一种能让人十分愉快的体验(当然前期得折腾很多东西啦😏)。比如我8-12月这段时间花了大部分时间来倒腾博客(课题当然摸鱼啦😴)，逛别人博客时看到好看的就想搬到自己的网站上😂，最后基本上就弄成现在这个样子。但是从现在开始应该不那么折腾了，当然有好看的功能也可以加上。搭建博客的初衷是用来写文章而不是用来装扮博客本身，希望不要本末倒置了！</li><li><strong>寄语：</strong>感谢每一位光临小站的朋友🍭🍭🍭</li></ul>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>照片</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<!-- GitCalendar容器 --><!-- <div id="gitZone"></div> --><h2 id="个人碎碎念🤗"><a href="#个人碎碎念🤗" class="headerlink" title="个人碎碎念🤗"></a>个人碎碎念🤗</h2><p><img src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" alt=""></p><ul><li><strong>搭建博客初衷：</strong>作为一个科班的学生，一直觉得拥有自己的独立网站是一件十分酷的事情！这样就相当于拥有自己独立的空间，不用去CSDN这些网站上写博客或者用有道云笔记去记笔记。网站成为了自己的一个名片，在上面写写东西，记录生活，分享知识，把自己想与他人展现的技能放在博客上，何尝不是一件有趣的事情！😆😆😆</li><li><strong>博客内容：</strong>本人做的笔记与总结，主要是关于Hexo博客搭建和魔改、 Java 后端、 Python，当然也有部分东西是搬过来的，后期可能会有一些Linux的知识👏👏👏</li><li><strong>想法：</strong>为什么当初会阴差阳错地选择了Hexo这样的静态博客作为自己的网站框架呢？因为相比于Wordpress这些动态博客，Hexo可以不用购买服务器，网站的运营费用主要是域名费用(白嫖😜)。而采用动态博客就必须自己租云服务器，虽然Wordpress部署起来更加简单，不用折腾那么多(但是我是一个比较喜欢折腾的人🤣)。还有一个就是Hexo这个框架非常轻量化，启动速度很快🚀，且可拓展性十分强大，可以自己定义任何东西，非常考验自己的动手能力(虽然很多是CV的😐)。平时在电脑上装好对应的NodeJs环境和依赖，写一写Markdown文件然后直接推送到github仓库就会全自动部署，网站就可以将笔记渲染成十分好看的网页和布局，这种自动化部署和精美的页面是一种能让人十分愉快的体验(当然前期得折腾很多东西啦😏)。比如我8-12月这段时间花了大部分时间来倒腾博客(课题当然摸鱼啦😴)，逛别人博客时看到好看的就想搬到自己的网站上😂，最后基本上就弄成现在这个样子。但是从现在开始应该不那么折腾了，当然有好看的功能也可以加上。搭建博客的初衷是用来写文章而不是用来装扮博客本身，希望不要本末倒置了！</li><li><strong>寄语：</strong>感谢每一位光临小站的朋友🍭🍭🍭</li></ul>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/random/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/wallpaper/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -632,6 +632,17 @@
       <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>charts</title>
+      <link href="/charts/index.html"/>
+      <url>/charts/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
       
     </entry>
     
@@ -797,6 +808,17 @@
       <url>/js/runtime.js</url>
       
         <content type="html"><![CDATA[var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("12/02/2021 00:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),o=new Date("12/02/2021 00:00:00"),r=(now-o)/1e3/60/60/24,i=Math.floor(r),n=(now-o)/1e3/60/60-24*i,s=Math.floor(n);1==String(s).length&&(s="0"+s);var l=(now-o)/1e3/60-1440*i-60*s,g=Math.floor(l);1==String(g).length&&(g="0"+g);var d=(now-o)/1e3-86400*i-3600*s-60*g,b=Math.round(d);1==String(b).length&&(b="0"+b);let c="";c=s<18&&s>=9?`<img class='boardsign' src='https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E7%A7%91%E7%A0%94%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F-1ade23?style=social&logo=Buy%20Me%20A%20Coffee' title='什么时候能够实现财富自由呀~'><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${b} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `:`<img class='boardsign' src='https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E4%B8%8B%E7%8F%AD%E4%BC%91%E6%81%AF%E5%95%A6%F0%9F%8C%99-6adea8?style=social&logo=coffeescript' title='下班了就该开开心心地玩耍~'><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${b} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}setInterval((()=>{createtime()}),1e3);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/share.js"/>
+      <url>/js/share.js</url>
+      
+        <content type="html"><![CDATA[// 分享本页function share_() {    let url = window.location.origin + window.location.pathname    try {        // 截取标题        var title = document.title;        var subTitle = title.endsWith("| Fantasy的技术小站") ? title.substring(0, title.length - 14) : title;        navigator.clipboard.writeText('Fantasy的技术小站分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');        new Vue({            data: function () {                this.$notify({                    title: "成功复制分享信息🎉",                    message: "您现在可以通过粘贴直接跟小伙伴分享了！",                    position: 'top-left',                    offset: 50,                    showClose: true,                    type: "success",                     duration: 5000                });                // return { visible: false }            }        })    } catch (err) {        console.error('复制失败！', err);    }    // new ClipboardJS(".share", { text: function () { return '标题：' + document.title + '\n链接：' + url } });    // btf.snackbarShow("本页链接已复制到剪切板，快去分享吧~")}// 防抖function share() {    debounce(share_, 300);}]]></content>
       
     </entry>
     
