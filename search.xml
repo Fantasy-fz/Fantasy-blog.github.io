@@ -594,22 +594,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>照片</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<!-- GitCalendar容器 --><!-- <div id="gitZone"></div> --><!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div><h2 id="个人碎碎念🤗"><a href="#个人碎碎念🤗" class="headerlink" title="个人碎碎念🤗"></a>个人碎碎念🤗</h2><p><img src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" alt=""></p><ul><li><strong>搭建博客初衷：</strong>作为一个科班的学生，一直觉得拥有自己的独立网站是一件十分酷的事情！这样就相当于拥有自己独立的空间，不用去CSDN这些网站上写博客或者用有道云笔记去记笔记。网站成为了自己的一个名片，在上面写写东西，记录生活，分享知识，把自己想与他人展现的技能放在博客上，何尝不是一件有趣的事情！😆😆😆</li><li><strong>博客内容：</strong>本人做的笔记与总结，主要是关于Hexo博客搭建和魔改、 Java 后端、 Python，当然也有部分东西是搬过来的，后期可能会有一些Linux的知识👏👏👏</li><li><strong>想法：</strong>为什么当初会阴差阳错地选择了Hexo这样的静态博客作为自己的网站框架呢？因为相比于Wordpress这些动态博客，Hexo可以不用购买服务器，网站的运营费用主要是域名费用(白嫖😜)。而采用动态博客就必须自己租云服务器，虽然Wordpress部署起来更加简单，不用折腾那么多(但是我是一个比较喜欢折腾的人🤣)。还有一个就是Hexo这个框架非常轻量化，启动速度很快🚀，且可拓展性十分强大，可以自己定义任何东西，非常考验自己的动手能力(虽然很多是CV的😐)。平时在电脑上装好对应的NodeJs环境和依赖，写一写Markdown文件然后直接推送到github仓库就会全自动部署，网站就可以将笔记渲染成十分好看的网页和布局，这种自动化部署和精美的页面是一种能让人十分愉快的体验(当然前期得折腾很多东西啦😏)。比如我8-12月这段时间花了大部分时间来倒腾博客(课题当然摸鱼啦😴)，逛别人博客时看到好看的就想搬到自己的网站上😂，最后基本上就弄成现在这个样子。但是从现在开始应该不那么折腾了，当然有好看的功能也可以加上。搭建博客的初衷是用来写文章而不是用来装扮博客本身，希望不要本末倒置了！</li><li><strong>寄语：</strong>感谢每一位光临小站的朋友🍭🍭🍭</li></ul>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/random/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/wallpaper/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>照片</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/random/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/wallpaper/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<!-- GitCalendar容器 --><!-- <div id="gitZone"></div> --><!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div><h2 id="个人碎碎念🤗"><a href="#个人碎碎念🤗" class="headerlink" title="个人碎碎念🤗"></a>个人碎碎念🤗</h2><p><img src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" alt=""></p><ul><li><strong>搭建博客初衷：</strong>作为一个科班的学生，一直觉得拥有自己的独立网站是一件十分酷的事情！这样就相当于拥有自己独立的空间，不用去CSDN这些网站上写博客或者用有道云笔记去记笔记。网站成为了自己的一个名片，在上面写写东西，记录生活，分享知识，把自己想与他人展现的技能放在博客上，何尝不是一件有趣的事情！😆😆😆</li><li><strong>博客内容：</strong>本人做的笔记与总结，主要是关于Hexo博客搭建和魔改、 Java 后端、 Python，当然也有部分东西是搬过来的，后期可能会有一些Linux的知识👏👏👏</li><li><strong>想法：</strong>为什么当初会阴差阳错地选择了Hexo这样的静态博客作为自己的网站框架呢？因为相比于Wordpress这些动态博客，Hexo可以不用购买服务器，网站的运营费用主要是域名费用(白嫖😜)。而采用动态博客就必须自己租云服务器，虽然Wordpress部署起来更加简单，不用折腾那么多(但是我是一个比较喜欢折腾的人🤣)。还有一个就是Hexo这个框架非常轻量化，启动速度很快🚀，且可拓展性十分强大，可以自己定义任何东西，非常考验自己的动手能力(虽然很多是CV的😐)。平时在电脑上装好对应的NodeJs环境和依赖，写一写Markdown文件然后直接推送到github仓库就会全自动部署，网站就可以将笔记渲染成十分好看的网页和布局，这种自动化部署和精美的页面是一种能让人十分愉快的体验(当然前期得折腾很多东西啦😏)。比如我8-12月这段时间花了大部分时间来倒腾博客(课题当然摸鱼啦😴)，逛别人博客时看到好看的就想搬到自己的网站上😂，最后基本上就弄成现在这个样子。但是从现在开始应该不那么折腾了，当然有好看的功能也可以加上。搭建博客的初衷是用来写文章而不是用来装扮博客本身，希望不要本末倒置了！</li><li><strong>寄语：</strong>感谢每一位光临小站的朋友🍭🍭🍭</li></ul>]]></content>
       
     </entry>
     
@@ -720,6 +720,17 @@
       <url>/css/readPercent.css</url>
       
         <content type="html"><![CDATA[/* 返回顶部 */button#go-up #percent {    display: none;    font-weight: bold;    font-size: 15px !important;}button#go-up span {    font-size: 12px!important;    margin-right: -1px;}/* 鼠标滑动到按钮上时显示返回顶部图标 */button#go-up:hover i {    display: block !important;}button#go-up:hover #percent {    display: none !important;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/card_weibo.js"/>
+      <url>/js/card_weibo.js</url>
+      
+        <content type="html"><![CDATA[fetch('https://weibo-top-api.777nx.cn/api').then(data => data.json()).then(data => {  let html = '<style>.weibo-new{background:#ff3852}.weibo-hot{background:#ff9406}.weibo-jyzy{background:#ffc000}.weibo-recommend{background:#00b7ee}.weibo-adrecommend{background:#febd22}.weibo-friend{background:#8fc21e}.weibo-boom{background:#bd0000}.weibo-topic{background:#ff6f49}.weibo-topic-ad{background:#4dadff}.weibo-boil{background:#f86400}#weibo-container{overflow-y:auto;-ms-overflow-style:none;scrollbar-width:none}#weibo-container::-webkit-scrollbar{display:none}.weibo-list-item{display:flex;flex-direction:row;justify-content:space-between;flex-wrap:nowrap}.weibo-title{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-right:auto}.weibo-num{float:right}.weibo-hotness{display:inline-block;padding:0 6px;transform:scale(.8) translateX(-3px);color:#fff;border-radius:8px}</style>'  html += '<div class="weibo-list">'  let hotness = {    '爆': 'weibo-boom',    '热': 'weibo-hot',    '沸': 'weibo-boil',    '新': 'weibo-new',    '荐': 'weibo-recommend',    '音': 'weibo-jyzy',    '影': 'weibo-jyzy',    '剧': 'weibo-jyzy',    '综': 'weibo-jyzy'  }  for (let item of data) {    html += '<div class="weibo-list-item"><div class="weibo-hotness ' + hotness[(item.hot || '荐')] + '">' + (item.hot || '荐') + '</div>'      + '<span class="weibo-title"><a title="' + item.title + '"href="' + item.url + '" target="_blank" rel="external nofollow noreferrer">' + item.title + '</a></span>'      + '<div class="weibo-num"><span>' + item.num + '</span></div></div>'  }  html += '</div>'  document.getElementById('weibo-container').innerHTML = html}).catch(function (error) {  console.log(error);});]]></content>
       
     </entry>
     
