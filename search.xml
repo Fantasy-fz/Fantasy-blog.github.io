@@ -738,6 +738,17 @@
     
     <entry>
       <title></title>
+      <link href="/js/custom.js"/>
+      <url>/js/custom.js</url>
+      
+        <content type="html"><![CDATA[// 防抖全局计时器let TT = null;    //time用来控制事件的触发// 防抖函数:fn->逻辑 time->防抖时间function debounce(fn, time) {    if (TT !== null) clearTimeout(TT);    TT = setTimeout(fn, time);}// 复制提醒document.addEventListener("copy", function () {    debounce(function () {        new Vue({            data: function () {                this.$notify({                    title: "哎嘿！复制成功🍬",                    message: "若要转载最好保留原文链接哦，给你一个大大的赞！",                    position: 'top-left',                    offset: 50,                    showClose: true,                    type: "success",                    duration: 5000                });            }        })    }, 300);})]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/emoji.js"/>
       <url>/js/emoji.js</url>
       
