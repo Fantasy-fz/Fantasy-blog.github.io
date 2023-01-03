@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>redis闪退解决</title>
+      <link href="/posts/f60c0327.html"/>
+      <url>/posts/f60c0327.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="redis启动时闪退，解决方法"><a href="#redis启动时闪退，解决方法" class="headerlink" title="redis启动时闪退，解决方法"></a>redis启动时闪退，解决方法</h1><p>今天学习redis，双击redis-server.exe时出现闪退的情况，于是上网搜查解决方案。</p><ol><li>Windows + R 进入 cmd</li><li>cd 进入到 redis-server.exe 所在文件夹</li><li>写入 <code>redis-server.exe redis.windows.conf</code>，回车</li></ol><p><img src="https://img.777nx.cn/Java/redis%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3/Snipaste_2023-01-02_15-16-51.png" alt=""></p><blockquote><p>这里给你报了一个错，是 redis 的一个小 bug</p></blockquote><ol><li>再打开一个 cmd 进入</li><li>写入 <code>redis-cli</code>，再 <code>exit</code> 退出一下</li></ol><p><img src="https://img.777nx.cn/Java/redis%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3/Snipaste_2023-01-02_15-22-14.png" alt=""></p><ol><li>再返回那个窗口写入 <code>redis-server.exe redis.windows.conf</code> ，回车</li></ol><p><img src="https://img.777nx.cn/Java/redis%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3/Snipaste_2023-01-02_15-23-49.png" alt=""></p><blockquote><p>发现还是不能用</p></blockquote><ol><li>新建个窗口，写入<code>redis-cli</code>回车，输入<code>shutdown</code>，再<code>exit</code>退出一下</li></ol><p><img src="https://img.777nx.cn/Java/redis%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3/Snipaste_2023-01-02_15-27-12.png" alt=""></p><ol><li>再返回那个窗口写入 <code>redis-server.exe redis.windows.conf</code> ，回车</li></ol><p><img src="https://img.777nx.cn/Java/redis%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3/Snipaste_2023-01-02_15-30-06.png" alt=""></p><blockquote><p>启动成功</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>里程碑达成，10000次浏览</title>
       <link href="/posts/5f6deee1.html"/>
       <url>/posts/5f6deee1.html</url>
