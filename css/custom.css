@@ -630,3 +630,73 @@ h6::before {
 .page:not(.page.home) .aside-content {
   display: none;
 }
+
+.card-info-avatar .author-status-box {
+  position: absolute;
+  bottom: 0;
+  left: calc(100% - 28px);
+  width: 28px;
+  height: 28px;
+  border: 1px solid #d0d7de;
+  border-radius: 2em;
+  background-color: #f8f8f8f8;
+  transition: 0.4s;
+  overflow: hidden;
+}
+
+[data-theme="dark"] .card-info-avatar .author-status-box {
+  background-color: #222222f2;
+  border: 1px solid #5c6060;
+}
+
+.card-info-avatar .author-status-box .author-status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 28px;
+  padding: 0 5px;
+}
+
+.card-info-avatar .author-status-box:hover {
+  width: 105px;
+}
+
+.card-info-avatar .author-status-box:hover .author-status span {
+  width: 105px;
+  margin-left: 4px;
+}
+
+.card-info-avatar .author-status-box .author-status span {
+  width: 0;
+  font-size: 12px;
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: 0.4s;
+}
+
+.card-widget .card-info-avatar {
+  display: inline-block;
+  position: relative;
+}
+
+/* 信息卡片彩带 */
+.author_top:hover {
+  background: url(https://tuchuang.voooe.cn/images/2023/01/02/snow.gif);
+  background-size: cover;
+}
+
+/* 个人信息卡片背景图 */
+[data-theme="light"] #aside-content > .card-widget.card-info {
+  background-image: url(https://img.777nx.cn/hexo/images/background/snowflower.webp);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background-image: url(https://img.777nx.cn/hexo/images/background/aurora.webp);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
