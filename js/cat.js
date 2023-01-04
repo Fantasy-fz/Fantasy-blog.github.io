@@ -34,8 +34,8 @@ if (document.body.clientWidth > 992) {
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
                 // 这里可以换为你喜欢的图片，例如我就换为了雪人，但是要抠图
-                nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
-                hoverMsg: "喵喵喵~",
+                nekoImg: "https://lskypro.acozycotage.net/LightPicture/2022/12/ba9f5739f169842c.webp",
+                hoverMsg: "下雪啦~",
                 color: "#6f42c1",
                 during: 500,
                 blog_body: "body",
