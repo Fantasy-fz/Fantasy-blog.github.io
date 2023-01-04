@@ -2,25 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.777nx.cn/posts/5f6deee1.html</loc>
-    
-    <lastmod>2023-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.777nx.cn/manifest.json</loc>
-    
-    <lastmod>2023-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.777nx.cn/about/index.html</loc>
     
     <lastmod>2023-01-04</lastmod>
     
@@ -57,6 +39,15 @@
   
   <url>
     <loc>https://www.777nx.cn/charts/index.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.777nx.cn/fcircle/index.html</loc>
     
     <lastmod>2023-01-04</lastmod>
     
@@ -245,7 +236,25 @@
   </url>
   
   <url>
+    <loc>https://www.777nx.cn/posts/5f6deee1.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.777nx.cn/Gallery/index.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.777nx.cn/about/index.html</loc>
     
     <lastmod>2023-01-04</lastmod>
     
