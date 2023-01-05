@@ -595,9 +595,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>census</title>
+      <link href="/census/index-1.html"/>
+      <url>/census/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -606,9 +606,9 @@
     
     
     <entry>
-      <title>census</title>
-      <link href="/census/index-1.html"/>
-      <url>/census/index-1.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
