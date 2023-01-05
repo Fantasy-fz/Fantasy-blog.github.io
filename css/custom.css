@@ -1,4 +1,4 @@
-@import "//at.alicdn.com/t/c/font_3851085_b38ggnw2yf9.css";
+@import "//at.alicdn.com/t/c/font_3851085_0sik4ridm2u.css";
 :root {
   --trans-light: rgba(255, 255, 255, 0.88);
   --trans-dark: rgba(25, 25, 25, 0.88);
@@ -60,6 +60,15 @@
   display: flex !important;
 }
 /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: -125px;
+}
+.menus_items .menus_item:nth-child(3) .menus_item_child {
+  left: -30px;
+}
+.menus_items .menus_item:nth-child(4) .menus_item_child {
+  left: -125px;
+}
 .menus_items .menus_item:nth-child(5) .menus_item_child {
   left: -30px;
 }
