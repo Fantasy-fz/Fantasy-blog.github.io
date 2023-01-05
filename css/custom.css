@@ -1,4 +1,4 @@
-@import "//at.alicdn.com/t/c/font_3851085_izabb38ffk.css";
+@import "//at.alicdn.com/t/c/font_3851085_ly14u3pvky.css";
 :root {
   --trans-light: rgba(255, 255, 255, 0.88);
   --trans-dark: rgba(25, 25, 25, 0.88);
@@ -1130,4 +1130,20 @@ h6::before {
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+svg.icon {
+  width: 1.28em;
+  height: 1.28em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+svg.social_icon {
+  width: 1.20em;
+  height: 1.20em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
 }
