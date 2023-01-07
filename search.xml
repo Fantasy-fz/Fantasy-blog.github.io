@@ -719,7 +719,7 @@
       <link href="/census/index.html"/>
       <url>/census/index.html</url>
       
-        <content type="html"><![CDATA[<div id="gitZone"></div><script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script><script>LA.init({id:"JuBtmyzESbFZCm8L",ck:"JuBtmyzESbFZCm8L"})</script><!-- <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JuBtmyzESbFZCm8L/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center"></script> -->]]></content>
+        <content type="html"><![CDATA[<div id="gitZone"></div><script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script><script>LA.init({id:"Jvw7JI9ZxlFhRYQX",ck:"Jvw7JI9ZxlFhRYQX"})</script><!-- <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JuBtmyzESbFZCm8L/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center"></script> -->]]></content>
       
     </entry>
     
@@ -730,7 +730,7 @@
       <link href="/charts/index.html"/>
       <url>/charts/index.html</url>
       
-        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2022-05" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
+        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2022-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
       
     </entry>
     
@@ -841,6 +841,17 @@
       <url>/games/index.html</url>
       
         <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/games/11.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">小霸王在线游戏机</div>  <p>FC/小霸王在线游戏机</p>  <a href='/game/bawangji'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/games/12.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">俄罗斯方块</div>  <p>王中王游戏机</p>  <a href='/game/russia_square'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/games/13.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">中国象棋</div>  <p>中国象棋</p>  <a href='/game/Chinese_chess'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/games/14.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">打字测速小游戏</div>  <p>HTML5键盘打字速度测试代码</p>  <a href='/game/test_typer'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/games/15.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">2048小游戏</div>  <p>2048</p>  <a href='/game/2048'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.777nx.cn/hexo/images/games/16.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">召唤神龙</div>  <p>召唤神龙</p>  <a href='/game/dragon'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/baidu.js"/>
+      <url>/js/baidu.js</url>
+      
+        <content type="html"><![CDATA[var _hmt = _hmt || [];(function() {  var hm = document.createElement("script");  hm.src = "https://hm.baidu.com/hm.js?26be843812d94aa145589c44dc8f7b9c";  var s = document.getElementsByTagName("script")[0];   s.parentNode.insertBefore(hm, s);})();]]></content>
       
     </entry>
     
