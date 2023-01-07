@@ -848,17 +848,6 @@
     
     <entry>
       <title></title>
-      <link href="/js/baidu.js"/>
-      <url>/js/baidu.js</url>
-      
-        <content type="html"><![CDATA[var _hmt = _hmt || [];(function() {  var hm = document.createElement("script");  hm.src = "https://hm.baidu.com/hm.js?26be843812d94aa145589c44dc8f7b9c";  var s = document.getElementsByTagName("script")[0];   s.parentNode.insertBefore(hm, s);})();]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/card_weibo.js"/>
       <url>/js/card_weibo.js</url>
       
