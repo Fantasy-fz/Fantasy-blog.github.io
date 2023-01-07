@@ -63,13 +63,16 @@
   left: -125px;
 }
 .menus_items .menus_item:nth-child(3) .menus_item_child {
-  left: -30px;
+  left: -85px;
 }
 .menus_items .menus_item:nth-child(4) .menus_item_child {
-  left: -125px;
+  left: -30px;
 }
 .menus_items .menus_item:nth-child(5) .menus_item_child {
-  left: -30px;
+  left: -85px;
+}
+.menus_items .menus_item:nth-child(6) .menus_item_child {
+  left: -60px;
 }
 
 /* 夜间模式菜单栏发光字 */
