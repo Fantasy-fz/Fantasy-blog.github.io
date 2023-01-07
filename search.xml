@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>在线生成ascii字符画网站字符图案在线生成工具</title>
+      <link href="/posts/2f3f0f05.html"/>
+      <url>/posts/2f3f0f05.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip home"><p>本文为 <a href="https://blog.csdn.net/qq_31708763/article/details/119712041">CSDN博主「JaneYork」</a>的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。</p></div><h2 id="前情提示"><a href="#前情提示" class="headerlink" title="前情提示"></a>前情提示</h2><p>有时候会看到Redis或者其他软件，安装完成后会在控制台输出好看的文字图案。<br>这里记录一下字符画生成工具，用于定制Spring boot应用的启动画面。</p><p><a href="http://patorjk.com/software/taag">http://patorjk.com/software/taag</a><br><a href="http://www.network-science.de/ascii/">http://www.network-science.de/ascii/</a><br><a href="http://www.degraeve.com/img2txt.php">http://www.degraeve.com/img2txt.php</a><br><a href="http://life.chacuo.net/convertfont2char">http://life.chacuo.net/convertfont2char</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">███████╗ █████╗ ███╗   ██╗████████╗ █████╗ ███████╗██╗   ██╗</span><br><span class="line">██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝╚██╗ ██╔╝</span><br><span class="line">█████╗  ███████║██╔██╗ ██║   ██║   ███████║███████╗ ╚████╔╝ </span><br><span class="line">██╔══╝  ██╔══██║██║╚██╗██║   ██║   ██╔══██║╚════██║  ╚██╔╝  </span><br><span class="line">██║     ██║  ██║██║ ╚████║   ██║   ██║  ██║███████║   ██║   </span><br><span class="line">╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   </span><br><span class="line">                                                            </span><br></pre></td></tr></table></figure><p>根据文字生成字符画：<br><a href="http://patorjk.com/software/taag">http://patorjk.com/software/taag</a><br><a href="http://www.network-science.de/ascii/">http://www.network-science.de/ascii/</a></p><p>根据图片生成字符画：<br><a href="http://www.degraeve.com/img2txt.php">http://www.degraeve.com/img2txt.php</a><br><a href="http://life.chacuo.net/convertphoto2char">http://life.chacuo.net/convertphoto2char</a></p><p>根据流程图生成字符画：<br><a href="http://asciiflow.com/">http://asciiflow.com/</a></p><p>idea插件<br><a href="https://github.com/OBKoro1/koro1FileHeader">https://github.com/OBKoro1/koro1FileHeader</a></p><h2 id="额外"><a href="#额外" class="headerlink" title="额外"></a>额外</h2><p>参考：<a href="https://www.cnblogs.com/niumoo/p/10434746.html">https://www.cnblogs.com/niumoo/p/10434746.html</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring </tag>
+            
+            <tag> 字符图案 </tag>
+            
+            <tag> ascii </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>redis闪退解决</title>
       <link href="/posts/f60c0327.html"/>
       <url>/posts/f60c0327.html</url>
@@ -21,6 +50,8 @@
         <tags>
             
             <tag> Java </tag>
+            
+            <tag> redis </tag>
             
         </tags>
       
@@ -47,6 +78,10 @@
             
             <tag> 博客 </tag>
             
+            <tag> 捣鼓 </tag>
+            
+            <tag> 十年之约 </tag>
+            
         </tags>
       
     </entry>
@@ -71,6 +106,12 @@
         <tags>
             
             <tag> Java </tag>
+            
+            <tag> mysql </tag>
+            
+            <tag> spring boot </tag>
+            
+            <tag> idea </tag>
             
         </tags>
       
@@ -97,6 +138,12 @@
             
             <tag> 博客 </tag>
             
+            <tag> hexo </tag>
+            
+            <tag> typecho </tag>
+            
+            <tag> WordPress </tag>
+            
         </tags>
       
     </entry>
@@ -121,6 +168,8 @@
         <tags>
             
             <tag> Java </tag>
+            
+            <tag> Tomcat </tag>
             
         </tags>
       
@@ -147,6 +196,8 @@
             
             <tag> Java </tag>
             
+            <tag> 实训 </tag>
+            
         </tags>
       
     </entry>
@@ -171,6 +222,8 @@
         <tags>
             
             <tag> 博客 </tag>
+            
+            <tag> 外挂标签 </tag>
             
         </tags>
       
@@ -197,6 +250,10 @@
             
             <tag> 博客 </tag>
             
+            <tag> 大学 </tag>
+            
+            <tag> 脱单 </tag>
+            
         </tags>
       
     </entry>
@@ -221,6 +278,8 @@
         <tags>
             
             <tag> Java </tag>
+            
+            <tag> mysql </tag>
             
         </tags>
       
@@ -272,6 +331,8 @@
             
             <tag> 博客 </tag>
             
+            <tag> Markdown </tag>
+            
         </tags>
       
     </entry>
@@ -283,7 +344,7 @@
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="2ff5976a23333a944a5670f254a820244e70041cc6786a93ac5e283ec2b5683e">8857952509ef9895f61625fe2d594ef3c9251b16e75667b105d9b8e2f98fa4e0c494f99b3d7554ae30086249b805cde1fe829b34d38aa0681ad350aafa2c2da4c8681f4421e346dbc95e2e6923f9aeeaa7cb0ef799698a147bdd2547f87a667e80c4a457c4883e6a81c948b927aacdc8269abeb88afac5bbc909b14dfc1b0b17a2c72d6e20855b7f036ad637e406b96743a43a6c316871106e837e1bd6267befaadec082c11fd845ddf6c9c26eb5eafa6c71e5f7481fcd0821adeb5e5f7538c7d82b6357cc0a428a90dd2cb346d68f73fd55de4b0ead7d7488faddce0f62dd303df3ea0fe875c5fe284dc715cfa64ab1bdc4a9b449d0fcb4a5e41699583904cbb629413ee14378578d3540101f40ce6e93be912dfedf12723b663517027c0e1f677fa7cb6f67e581c42e8874d27ba96a40f6d9aeec6a527e368987493283f493372cf11342e3d2a4c530c6c3979e12f1c2761035d7ee2a597e6a60988d2d38cb5bb373a6c5c100e6663b683470d7681ff1493d477e1a31b20c08159bacf4406461a024726c9fab32fc0b423009a3942995804910e5a93cef058bc5229daa2c350fb0b30592da132e5c00058daa83114ce3684d937e25d7f9d888d54e7a6f3c76961e17f0156c335bb6e7e9fecc7e4fbaf7bea5c23849bca8d38e9edde3160d9a9e45711b8c450e653706eb619ef2f2a69baf67b88c51971c3a9c87afa86dff05d3dba36e4903b2e2543ac0b5d0260ea2528fdd4f09bb982f0f1c0b717a1c7a0f4a645918b35acdbf7b41e85a42df50ff7eb3b1f0e5d2e619a9dd351b44d0f942d7dc89823967c327536563c7fb8964fa4370488589da03106034c57a542f0b15acb9d597642bd15a20bb3c06a8c340cd583a7a850103f01d602540c7668db6e6e4cbb19893760fa5794a440a0c74043c2091d38480e702c52a65612054b381b4ba18867f34b4337c07d5df8cc17aa415f945521f0017c7db1a88d572d1d678514cd5008a25424b17271dd652a6e37468f5efe1dc718320d603baf7c0d969972a077a6edc19cd271cb4b5e3974f15e1b4381d3f1053bc978ec5728891d6fbedce553f45347a33d904d3d9ecffb633f5e5e32ec408f21c30a7d4d5ca85b21c383bd9d51dea3310bb284eba806a9dc49c19f03a0a4cf24034b487967c50f3d799355a81249b29586a51896bade3be3cdc5f6031249290f04e7fd05df804f7953c214dc15c1e71d3016b3848e74c06dae7f540c0ceabb8b163661b21aa2239c879734590f845020df358df85d0d14d07d043b2e23e3dfe857666c6206079469919eb97731bf1087f1d3822421482d7f160e22ec699108657c4dbc8619a31f572128578b8d6e5803e5627bd77894bed40eeddc4ea7ae85a975472ae797660283003ccbe4a1274fbf55d5a0859eb0eccb1b19de115252302063f9031cb5663025a6fb81ab66cb9008a3a2273b269a73c51823510e875922964653964916a1acf94c86fdb466d03fe3d522778d1b277223b6e7a0f1108d90fdffb3f0d707171b401c85051f0ba88d98c1f6d9c6f53716bc5f21db314880d67e9dcb4e0cdc731b4be8e72af433215b56652ce9b5ec7b2b9f167c87d15d7ac4d5d38c1d8cdd2ffcc49079b60cc1bb673ce0f1eb2d6f1a61ab4b76d1a2161eb13e675b895713ad40f4d254d0662eaf828f8416cff80ed31894601fd9f5c625173f59a637c5f2b69b62c6dcb5f73afa67b6fb26a190652a0b2752bad2c9a10cc6afc4c817e79db9da68829f7cd8131f92f70a6482d8a3bd248638382115a0e2bffd7df9abbd09a405fbfab9bfe04b61e00aaa6b346a36feb0cc59d5a857cea493dddd29eed59f914c87095963fbf4e919462b4fe56ea32784f7bb0421cb7b36b94c5301b87cee4f92aa7af0c0735681072de3abcdd293f4fe859f58f49a4deaa4df4593f54756e8c1eecea1acbfbbe577352db3eb8512fddfedfcbf9d146ebe6aa86140675d65624cc5f4068660b28a6f87f98cfd7182cde640e2e960de46ec1ca1ab6ebea65f3e27f0037c8b920239ce3a751978e7ddf4368a889a2441da88a130e54838fe65826a4806c2aa4dbfd1258d70a83dcb7a57b027b8252feaf79580e631d8f0551b7cff46998839e100fa33dc9fc4956185da1af914ca60897bafba7d14188a49621e817b99a3b5204f8c9cd7654d5e69827e68830eb0bfe56acca42e030c2a6fff293d1404f891ce463f8a34925cf0f370a73bc2e64d3ac089ddc918e74a2dfc39d00031d4b8f3b47358baf3759cbca0f384c2de9aa53f2167a67145e9d4fb556752b77dd225031e662739ee506fe0a77ceae959fc9c24b286ce1cc7d7e46a9f39dcf00cc83fa61bacd5de3cbc32d2456b950ac48d5e21090d2bfbfc2e920658dd908535c00493c2c3c9ddf318afe31bac6436bcea54afd075ed66f6a8ca48dd9a10ee137c0ad4e244a5ed8845e47831e8ff68ef449f2d2282769f14f0379c2e24d5f6de82937d8f3b7af3c34ff06333f0e317bb71573b43c33ebaff688c23701623691f6135694ca2cfa4c2b252babb346f3ae2f26ac592670847cf3c028a7357fbcfff2e5f339b827e299ade3fb4262e4eacd862a2a6ca7c22d01cf5c878721970a5cf41c2b4cf92af851098b1643a39975c9fd8a84bf565e524da3b063fe135eea618bd0fe3b664d28ae9970a2a385537346c87a0cc4e7adf2136cd58be7cbc5ffe383d9593c8f9414b1625fb556522399d2ae2aeee008b4eae397b91764fb2ab7a21d4309085eb26856d8e6a439f043946fb7b44c4e93237f9002f0f2494facb1574d71e95166afc0e07ba8fa0dde29658b0f07c2813e4fa8f4b04479e58735d621c920231294e5008b4b7711a7a866d03c776da0b7073085443c9447464b14e8fc37c68d6f00548ddbe6ca84f85bae4163c4a23dc4c5d64c6043300ff8717de70b87fc70ef107c2f1d6ef426111a34525922cb6ce4d60a4aaa8205303454c5e9209e4f22b86cabe1dac02846762e660b62428bb8d8b874e6193325aa252a9580fe3715098bd55ad269ee2bfbbc92a847bcfcdff4810c93b86e75098146298856be0221940fae8ad1c0eebbdf4bceb81649a0141a76e925e3fb0b4a4f66d1c8afc04e81d0ce784448729fcc6b75b3a201866874ba</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="947d56a4b4ae4d2e78619ef31e2662f7adc27b8fd36a7a78bf956b7cd0c10b04">c0fda9f44009463564b46e6750d18754cbc91d1931f02783000baa0bf8ab0ec6d69fb1dc516d9d4422a4254a6f92c58258864815cee9d97c9491af23a7c407c55b06a672d866788b858cfd01f09a0d6d13d857e24489a58cd404bd12ce42222f872b4fda6b6fac4df73007a11cb3d83d64ced5302e8185d22cb3b4265d4036ea38b68eaf145a370c81c9b6a4ea80d59bd6b5657574a48658d9c83a60c1faf640ce8f76dc4e5ef48cdc7250df551d405b3966931c8d5015a1cbca207ff9571a5185e3fde7d4586b2f91392397196cecf365ace697fbf53c1b663d8f6fe11d83dc58ff6aa10c5a62c4745e53f180fed968689525bad918f33c0c7f7c4e96ee0984b5f352ecc12de381cd9a3552c9030293abef1b840f7029ec69cf367771b15510a182bac3788c7a9e5249e9050b4a98417b7832702cb121f21b6847ab65d1fdb903fdb54eab90693cdf8a13f321b24603706a2f1db264876db5c70e8a88f07cc9f0cc8ef02c5aa699250d62df7c8dc9202b0f4ae371b01bdf7882644213b48747bd2ad1831e27c44929c886f5bbd2f89e0e985b85017f211451b56a81d6da7b8b7e67c71994fbf9c1c39f7dfdc7d86c3357c57cb109be941a2add0a167017a6a84d2096b1a94147d3ff319900f046c35b97047a00179c9a8d2555caee84e2d85a082d23acc05e04dfffa8ee29b313b0e6584788fb0c7755a6b6bf31eccbc96e9ecc23a0db901e0d307ccf4e180ea039de394d86ec5b81b2cfbff391c9b48e58b73200fd498923a2f3a64fdca2de063c570254d96b34b8484abab74114a524d0aad80e97e112c76a84006323d325793d7c9b8993e0a1dba9f315c8398bcc3edc1c13c85aa858c7148c7a969262780af82a27a551031d4d1b6b6570c5d39f140f88b14b3f621cf2d194f62657c429014783695e1c87dacfcbaaf52b86a2d22dd76b23d03517dc32dc95fba8d77ee3f833d9e7878c1d887548d03922f5a97b2ee108d9db1c15c02dd0b1aa39f59b2e44d018748d8872e2a518433d834a85662e631a28ff925086831fc001fb4014e0a5c20b14a3cfcefa0f73a1afb282205c35a12d2fcebb629003e84672fc37d856db871e69dfe26fa914129268909f99c9be9d7c817acee509715b16d0c0076fc12af5959f677f103413fb664a91473fab833b854280afb27a7e69e16e20512d75bd93565b188653f78edb2660e5a73b36cf1d98cb57ea995179e5760519c5f708512fa7c6281dcb4a3e1aee4f1d7715d3eac623e6d3cfb40e85a48581e8aa529fc55e242f06e6a0ba06b53333eb420829285bff23481bfcff6b218621b0caaf376c841859d144cdf4495481791b7ae3be7a279f270f963a50dc5585d6bedc711b1dcf3140bd757fbe24a1494d76a36c71df9ac82c687119bc44357ca2e1fa0298344c7d495d525805313e33a15d4a3b0d9ddaac32c2712784dadf1b3ba5c14cbd26dd6d11f43a79125ee7d98f6c71e86b7b5229073ff0ded4146410e23794228812996837a9effc1ca33e369a5aec6b8dfaeee754e7692abb685b83d80f5ee3fa967dc4979b4240a9418508569a2d0dc62d0b7cc68a97a101004e9934455d44d7518d0bf73ad00570665627ae318c59964a988e716cd791eb21adbd5fe9f3f214464f896946f63602ecba4162a76e4c0942b362c6731d80a180effd8680c96054ab867837d0099cf84b005953b3ea9246d82ef9c299b7663d0805f2870dab636420d0e32adca8fa9da479d1d7da55ef30216fd51a8822015502330a12615e73caa1e3309ade750a6dcb043594e25bd9114a3d6e7201ef36e20465f1bd4ab22f83e65bb09d18183376fce5375f56f7ea01e51ff37955026908e0973c421b8ef2564f2f9c5db7f3171f684f574ff43860b4f7bea98af375e8fbd7bb7c47fca678e3c9b3c18054c2f3f9086b466c8da076ee5bd6d1f07ba84c7d630b4493b022f7dbed8be42475b134f961c5a1e7a554415e965c1d4ae0e52ea23abe0284554065be851c0ad58fd6942816de49f30516bb4dd88b662cb6a7158feb8cb4e8c0d458ffda600a5acb15a4afeb347e25a35f685b997082b9e5b7ec021e9094afc1f782f8903ea897f7eaa1974d13282653eec2d2896a08aff4a069ec5cff9006875722ba6a5f40fbd9f4b65f9e83151a8506f49984ce7edf9f776c1386dbc91311d6126e3769fbceacc294af71b1f980c77a4cfc91008653a07f475002aa43b78b9c1a9e5959a2f39f9f821f2398480f02c262dee81604debf596255998470b41a3c54285c172f325cf77bbd50ced9a9270f83bcdea6de3095663a0e9975b54c836560e8221fc5ef0e559f13f2adb41909598d0ce65c187b4363ca71ab03aec948d03655f5ad974c8086eb03922f6a3af20aa0e9beabf0038b41cec752935471f58a9a28e112a01d7e2e37b5ec13735976c07674fffa8251ffdf57e4e65a43805cfab27969b70201a014869596ea167c3a14ec6b8aa444624767ec3caeeb87858e215516d7f2628548103001b03ef854e856a0be8fe6b143a2db5d59581ceb8cce09d0f1d490c35ef5d70145fb9d5681d08da844653beb9cc4bc3d25bc4d8f4ac79f3043ed90d0cc707355f17f8da5eabb336abdabea429b3de4312fbec67dac7a2a6c18d2da0bca5021edf1eac2316fd1d007171aed4b557a4b5269d5c37d86ba101d5535d192802a5dfba2d09eeadaf93ed7017769bcc74729eea817eb3da9064a818b52c5f985341d143a947e7c564f76a42a81500d54c53da1460f06a798f277a3319c680e8ac12f97ebee382ade5f9889ecd8d8dff0a1f26602630ca2f5486d010b110db89fff3cb85e2f507599b989b17105e53772be9ed6c4eaa7ce96fb2217b00d047572d85fa04c70444f46b67fd9b5aa1b9620e509003a5fd0571062ab48ccf0c496119c724be80f359406ffe42e6dd8ca942cfae4f91b9cf3f87c7d6837538f2b02176c8103960f9f282e1605f4f872d2fc2615f499d1b6362e47066ec845c3e97e54ddcafe7919c5eb7ea2fee1743e295b6cd847b22be2ef9d117860c7ac62f13315e36fcdc211ed21c37a48196c5346666f31a7ee17ec52ebbd4a21a7f9b45ea19bc3dfcf1bcb4b4cef1cf6741e3b157e29b5b0c99d67344ff79d5b52c085ff61</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
       
@@ -316,6 +377,10 @@
             
             <tag> 博客 </tag>
             
+            <tag> 学习 </tag>
+            
+            <tag> 高效 </tag>
+            
         </tags>
       
     </entry>
@@ -340,6 +405,8 @@
         <tags>
             
             <tag> Python </tag>
+            
+            <tag> ATM </tag>
             
         </tags>
       
@@ -366,6 +433,8 @@
             
             <tag> Python </tag>
             
+            <tag> 九九乘法表 </tag>
+            
         </tags>
       
     </entry>
@@ -390,6 +459,8 @@
         <tags>
             
             <tag> Python </tag>
+            
+            <tag> pycharm </tag>
             
         </tags>
       
@@ -416,6 +487,10 @@
             
             <tag> HTML </tag>
             
+            <tag> 李峋 </tag>
+            
+            <tag> 爱心 </tag>
+            
         </tags>
       
     </entry>
@@ -440,6 +515,10 @@
         <tags>
             
             <tag> HTML </tag>
+            
+            <tag> 恋爱 </tag>
+            
+            <tag> 计时器 </tag>
             
         </tags>
       
@@ -466,6 +545,10 @@
             
             <tag> Java </tag>
             
+            <tag> 编程 </tag>
+            
+            <tag> 算法 </tag>
+            
         </tags>
       
     </entry>
@@ -491,6 +574,8 @@
             
             <tag> Java </tag>
             
+            <tag> maven </tag>
+            
         </tags>
       
     </entry>
@@ -515,6 +600,8 @@
         <tags>
             
             <tag> Java </tag>
+            
+            <tag> 一元二次方程 </tag>
             
         </tags>
       
@@ -643,7 +730,7 @@
       <link href="/charts/index.html"/>
       <url>/charts/index.html</url>
       
-        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
+        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2022-05" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
       
     </entry>
     
