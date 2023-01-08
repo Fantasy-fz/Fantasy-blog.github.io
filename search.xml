@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>自动发博客？每天60秒读懂世界免费源码每日定时发布适用于WordPress博客</title>
+      <link href="/posts/54f920c2.html"/>
+      <url>/posts/54f920c2.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="源码介绍"><a href="#源码介绍" class="headerlink" title="源码介绍"></a>源码介绍</h2><p>wordpress博客每日定时发布《每天60秒读懂世界》<br>并非第三方接口，采集接口是知乎秒读懂世界，源码适用于wordpress博客，<br>通过本篇教程可以在自己的wordperss中增加每日定时发布《每天60秒读懂世界》中的文章，可以有效的提高站点的SEO，并且自动创建到“每天60秒读懂世界”的分类中。</p><h2 id="源码截图"><a href="#源码截图" class="headerlink" title="源码截图"></a>源码截图</h2><p><img src="https://img.777nx.cn/%E5%8D%9A%E5%AE%A2/%E6%AF%8F%E5%A4%A960s%E8%AF%BB%E6%87%82%E4%B8%96%E7%95%8C/1.png" alt=""></p><h2 id="教程如下"><a href="#教程如下" class="headerlink" title="教程如下"></a>教程如下</h2><ol><li>首先下载一下php文件</li><li>解压出来然后上传60s文件到网站的根目录下</li><li>将32行的域名更改为自己网站的域名</li></ol><p><img src="https://img.777nx.cn/%E5%8D%9A%E5%AE%A2/%E6%AF%8F%E5%A4%A960s%E8%AF%BB%E6%87%82%E4%B8%96%E7%95%8C/2.png" alt=""></p><ol><li>设置定时访问任务（可以通过宝塔进行创建）</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://你的域名/60s.php</span><br></pre></td></tr></table></figure><p>宝塔创建定时任务方法</p><p>找到宝塔的计划任务</p><p>任务类型选择访问URL</p><p>URL地址填写：<code>https://你的域名/60s.php</code>名称可随便填写，执行时间可以是每天更新一次。比如：每天，1点30分</p><div class="btns rounded grid5">            <a class="button" href='https://777nx.lanzoue.com/iXUv60kflqra' title='下载源码'><i class='fas fa-download'></i>下载源码</a>          </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> WordPress </tag>
+            
+            <tag> 每日定时发布 </tag>
+            
+            <tag> 每天60秒读懂世界 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在线生成ascii字符画网站字符图案在线生成工具</title>
       <link href="/posts/2f3f0f05.html"/>
       <url>/posts/2f3f0f05.html</url>
@@ -719,7 +750,7 @@
       <link href="/census/index.html"/>
       <url>/census/index.html</url>
       
-        <content type="html"><![CDATA[<div id="gitZone"></div><script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script><script>LA.init({id:"Jvw7JI9ZxlFhRYQX",ck:"Jvw7JI9ZxlFhRYQX"})</script><!-- <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JuBtmyzESbFZCm8L/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center"></script> -->]]></content>
+        <content type="html"><![CDATA[<div id="gitZone"></div><!-- <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script><script>LA.init({id:"Jvw7JI9ZxlFhRYQX",ck:"Jvw7JI9ZxlFhRYQX"})</script> --><!-- <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JuBtmyzESbFZCm8L/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center"></script> -->]]></content>
       
     </entry>
     
