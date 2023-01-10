@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>寒假自学的小建议，弯道超车！</title>
+      <link href="/posts/cf7f140d.html"/>
+      <url>/posts/cf7f140d.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip home"><p>以下文章来源于程序员库森，作者库森</p><div class="tag link"><a class="link-card" title="程序员库森" href="https://mp.weixin.qq.com/s/BC6VXxLPObb_RzGDD1ewzw"><div class="left"><img src="http://wx.qlogo.cn/mmhead/Q3auHgzwzM49LibEtkDZl1SNAicmBgUgWhHwqBQeN6B35l5T9JP5Wic8A/0"/></div><div class="right"><p class="text">程序员库森</p><p class="url">https://mp.weixin.qq.com/s/BC6VXxLPObb_RzGDD1ewzw</p></div></a></div></div><p>大家好，我是Fantasy。<br>一些小伙伴想在寒假自学一些东西提升下自我，为了帮助大家更好地学习，弯道超车，今天就把压箱底的经验和资料分享出来，赶快收藏点赞在看三连</p><h2 id="1-巩固-C-语言"><a href="#1-巩固-C-语言" class="headerlink" title="1. 巩固 C 语言"></a>1. 巩固 C 语言</h2><p>用 C 语言刷题，用 C 语言做小游戏和小项目，这个适合大一新生，尤其有些同学 C 语言学的一知半解，甚至还挂科的。<br>C 语言学习首推翁凯老师的视频：<a href="https://www.iCourse163.org/spoC/Course/zju-121004?ivk_sa=1024320u">https://www.iCourse163.org/spoC/Course/zju-121004?ivk_sa=1024320u</a></p><p><img src="https://img.777nx.cn/Java/%E5%AF%92%E5%81%87%E8%87%AA%E5%AD%A6%E7%9A%84%E5%B0%8F%E5%BB%BA%E8%AE%AE%EF%BC%8C%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%EF%BC%81/1.png" alt=""></p><p>C 语言刷题网站，锻炼自己的编程能力：<a href="https://www.dotCpp.Com/">https://www.dotCpp.Com/</a><br>C 语言小项目和游戏网站：<a href="https://www.lanqiao.Cn/Courses/155">https://www.lanqiao.Cn/Courses/155</a></p><h2 id="2-学习-C"><a href="#2-学习-C" class="headerlink" title="2. 学习 C++"></a>2. 学习 C++</h2><p>这门课通常在大一下或者大二上学习， C++ 的一些优越性是其他语言无法比拟的，百度自动驾驶系统、腾讯网易的游戏…都用到 C++ 了。<br>入门学 C++，可以看 C++ Primer 第5版。<br>进阶学习看《TCP/IP网络编程》、《Linux高性能服务端编程》等。<br>视频超级推荐侯捷老师，侯捷老师是《深入浅出MFC》作者，C++ 国内布道者，他的 C++ 视频广为人知！<br><img src="https://img.777nx.cn/Java/%E5%AF%92%E5%81%87%E8%87%AA%E5%AD%A6%E7%9A%84%E5%B0%8F%E5%BB%BA%E8%AE%AE%EF%BC%8C%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%EF%BC%81/2.png" alt=""></p><h2 id="3-学习Python"><a href="#3-学习Python" class="headerlink" title="3. 学习Python"></a>3. 学习Python</h2><p>人生苦短，我用 Python。Python 相较于 Java，PHP 以及 C++ 这样的语言，简单易学、注重可读性，超级适合入门。<br>Python 能做的事情太多了，爬虫、机器学习、数据科学、网站开发无所不能。<br>书籍推荐：《Python编程，从入门到实践》<br>Python 视频可以看北大陈斌老师：<a href="https://www.bilibili.Com/video/BV1V741147QH/">https://www.bilibili.Com/video/BV1V741147QH/</a><br>陈斌老师全面而系统地讲述了 Python 的实质核心知识，课后测试、作业和讲解分析都很到位，能很好地巩固学习。视频附有打包的 PPT 以及一些上机练习答案。<br><img src="https://img.777nx.cn/Java/%E5%AF%92%E5%81%87%E8%87%AA%E5%AD%A6%E7%9A%84%E5%B0%8F%E5%BB%BA%E8%AE%AE%EF%BC%8C%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%EF%BC%81/3.png" alt=""></p><h2 id="4-开始刷题"><a href="#4-开始刷题" class="headerlink" title="4. 开始刷题"></a>4. 开始刷题</h2><p>刷 LeetCode，刷 LeetCode，刷 LeetCode！重要的事情说三遍，将来不管是去外企还是国内大厂，算法必考，尤其想去外企的，基本每场笔试都要来 2、3 道算法题。尤其是大三、研二的同学，一定要开始刷题了，过完年就要找暑期实习了！<br>对于大一大二的同学，也可以开始接触刷题，尤其是想要参加 ACM、蓝桥杯的，可以去 LeetCode、Codeforces、各大著名的 oj 网站如北大 oj、浙大 oj 刷题了。<br><img src="https://img.777nx.cn/Java/%E5%AF%92%E5%81%87%E8%87%AA%E5%AD%A6%E7%9A%84%E5%B0%8F%E5%BB%BA%E8%AE%AE%EF%BC%8C%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%EF%BC%81/4.png" alt=""></p><h2 id="5-刷一套学习视频"><a href="#5-刷一套学习视频" class="headerlink" title="5. 刷一套学习视频"></a>5. 刷一套学习视频</h2><p>在 b 站跟着找一套视频跟着刷完，某马，某硅谷，某学堂等都可以，跟着学的时候最好也要敲代码，做好笔记，学完再跟着视频做个小项目会很有成就感。<br>尤其是大二、大三的同学，建议大家一定要学好一门编程语言，Java 也好、C++也行，再做个能拿得出手的项目，商城、博客、论坛、旅游网站都可以，对于之后找实习和找工作很有帮助。</p><h2 id="6-看些经典书籍"><a href="#6-看些经典书籍" class="headerlink" title="6. 看些经典书籍"></a>6. 看些经典书籍</h2><p>尤其是大黑书系列，如《深入理解计算机系统》、《编程之美》、《代码大全》、《编程珠玑》、《数据密集型应用系统设计》、《计算机程序的构造和解释》、《操作系统导论》、《计算机网络：自顶向下方法》等。</p><h2 id="7-学数据结构和算法"><a href="#7-学数据结构和算法" class="headerlink" title="7. 学数据结构和算法"></a>7. 学数据结构和算法</h2><p>这门课比较难，通常在大二开设，需要一定的抽象思维，同学们可以提前学习。<br>初学者视频可以看王卓老师：<a href="https://www.bilibili.Com/video/BV1nJ411V7bd/?spm_id_from=333.337.searCh-Card.all.CliCk">https://www.bilibili.Com/video/BV1nJ411V7bd/?spm_id_from=333.337.searCh-Card.all.CliCk</a><br>王卓老师讲课用的课本是严蔚敏老师的，是人民邮电出版社的数据结构C语言版。可以去人邮教育社区下载课后习题答案，源代码，算法动态实现等内容。</p><p><img src="https://img.777nx.cn/Java/%E5%AF%92%E5%81%87%E8%87%AA%E5%AD%A6%E7%9A%84%E5%B0%8F%E5%BB%BA%E8%AE%AE%EF%BC%8C%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%EF%BC%81/5.png" alt=""></p><p>浙大的陈越姥姥、清华的邓俊辉老师讲的也很好，有精力的小伙伴也可以去了解下。</p><h2 id="8-学习操作系统、计算机组成原理和计算机网络。"><a href="#8-学习操作系统、计算机组成原理和计算机网络。" class="headerlink" title="8. 学习操作系统、计算机组成原理和计算机网络。"></a>8. 学习操作系统、计算机组成原理和计算机网络。</h2><p>这三门课是非常重要的，加上数据结构这门课就是考研的 408 科目。<br>现在大部分计算机名校考研都考 408；找工作时，无论你找前端、后端、算法，Java 还是 C++，这四门课都是跑不调的，面试考察的计算机组成原理会少些，其他三门必考。<br>所以建议小伙伴们寒假可以好好补下这几门课。</p><h2 id="9-学习高效的编程工具"><a href="#9-学习高效的编程工具" class="headerlink" title="9. 学习高效的编程工具"></a>9. 学习高效的编程工具</h2><p>强烈建议学习 Linux、vim、git、ssh、shell 等高效编程工具，这些学校里老师讲地比较少，但是都是编程效率提升必备工具。<br>而 MIT 就开了一门叫做 Missing Semester 的课程，课程地址：<a href="https://missing.csail.mit.edu/">https://missing.csail.mit.edu/</a><br>国内b站：<a href="https://www.bilibili.com/video/av633376920/">https://www.bilibili.com/video/av633376920/</a><br><img src="https://img.777nx.cn/Java/%E5%AF%92%E5%81%87%E8%87%AA%E5%AD%A6%E7%9A%84%E5%B0%8F%E5%BB%BA%E8%AE%AE%EF%BC%8C%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%EF%BC%81/6.png" alt=""></p><h2 id="10-开始准备实习"><a href="#10-开始准备实习" class="headerlink" title="10. 开始准备实习"></a>10. 开始准备实习</h2><p>一定要实习，一定要实习，一定要实习，重要的事情说三遍，尤其是本科要去工作的，不管是日常实习还是暑期实习，最好要参加，秋招时，有实习经历的简直加分太多了！！！<br>暑期实习是大三上就要准备了，寒假正是准备的好机会，等寒假结束开学后，会有一大波公司开始暑期实习面试，可不是暑期才开始准备哦，暑期是去实习的！</p><h2 id="11-做点计算机项目"><a href="#11-做点计算机项目" class="headerlink" title="11. 做点计算机项目"></a>11. 做点计算机项目</h2><p>培训班项目、Github 项目都可以，尽可能折腾，积累经验，为将来找工作打好项目基础，还能锻炼实践能力。<br>拿  Python 举例，这里列举一些不错的 Github 项目：</p><ol><li><a href="https://github.Com/jaCkfrued/Python-100-Days。面面俱到包括了">https://github.Com/jaCkfrued/Python-100-Days。面面俱到包括了</a> Python 开发的方方面面，手把手地一步步的讲 Python 技术。</li><li><a href="https://github.Com/grantjenks/free-Python-games。入门级">https://github.Com/grantjenks/free-Python-games。入门级</a> Python 游戏集合库，都是些简单的小游戏，比如：贪吃蛇、迷宫、Pong、猜字等。</li><li><a href="https://github.Com/reorx/httpstat。">https://github.Com/reorx/httpstat。</a> 展示 HTTP 请求状态和耗时的 Python 命令行工具，就一个文件才 300 多行代码，非常适合新手阅读源码。</li></ol><h2 id="12-可以准备下考证"><a href="#12-可以准备下考证" class="headerlink" title="12. 可以准备下考证"></a>12. 可以准备下考证</h2><p>要考一些有必要的认证，如 CCFP 认证、浙大的 PAT，部分名校是考研复试时可以拿来抵机试成绩的，即使没考上研究生，直接去就业，很多企业也是认可的。<br>至于计算机二级、四级这些就算了，因为是针对非计算机专业的，计算机专业的同学就考些有含金量的了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机专业 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>希望学编程的同学都知道这些宝藏老师！</title>
       <link href="/posts/97ec1411.html"/>
       <url>/posts/97ec1411.html</url>
@@ -13,14 +38,12 @@
       
       <categories>
           
-          <category> Java </category>
+          <category> 计算机基础 </category>
           
       </categories>
       
       
         <tags>
-            
-            <tag> Java </tag>
             
             <tag> 计算机专业 </tag>
             
@@ -121,7 +144,7 @@
       
       <categories>
           
-          <category> 博客 </category>
+          <category> 生活趣闻 </category>
           
       </categories>
       
@@ -283,7 +306,7 @@
       
       <categories>
           
-          <category> 博客 </category>
+          <category> 生活趣闻 </category>
           
       </categories>
       
@@ -406,7 +429,7 @@
       
       <categories>
           
-          <category> 博客 </category>
+          <category> 生活趣闻 </category>
           
       </categories>
       
@@ -514,7 +537,7 @@
       
       <categories>
           
-          <category> HTML </category>
+          <category> 前端 </category>
           
       </categories>
       
@@ -541,14 +564,12 @@
       
       <categories>
           
-          <category> HTML </category>
+          <category> 前端 </category>
           
       </categories>
       
       
         <tags>
-            
-            <tag> HTML </tag>
             
             <tag> 恋爱 </tag>
             
